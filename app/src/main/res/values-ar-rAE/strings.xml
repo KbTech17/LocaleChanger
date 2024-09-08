@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">هذا العنوان باللغة العربية</string>
+    <string name="to_en_button">إنجليزي EN</string>
+    <string name="to_it_button">ايطالي IT</string>
+    <string name="to_ar_button">عربي</string>
+    <string name="headline">نصوص عربية للمبتدئين لممارسة القراءة والفهم أونلاين ومجاناً</string>
+    <string name="sub">إن ممارسة فهمك للغة العربية المكتوبة سوف يحسن مستواك
+        المفردات وفهم القواعد وترتيب الكلمات. النصوص أدناه مصممة ل
+        تساعدك على التطوير بينما تمنحك تقييمًا فوريًا لتقدمك.</string>
+</resources>

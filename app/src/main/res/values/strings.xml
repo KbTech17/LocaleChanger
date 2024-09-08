@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">localeChanger</string>
+
+    <string name="to_en_button">English</string>
+    <string name="main_second_activity" translatable="false">Second page ></string>
+    <string name="back_button" translatable="false"><![CDATA[< Go back]]></string>
+
+    <string name="title">This title is in English</string>
+    <string name="to_it_button">Italian</string>
+    <string name="to_ar_button">Arabic</string>
+    <string name="headline">English texts for beginners to practice reading and comprehension online and for free</string>
+    <string name="sub">Practicing your comprehension of written English will both improve your
+        vocabulary and understanding of grammar and word order. The texts below are designed to
+        help you develop while giving you an instant evaluation of your progress.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Questo titolo è in Italiano</string>
+    <string name="to_en_button">Inglese</string>
+    <string name="to_it_button">Italiano</string>
+    <string name="to_ar_button">Arabo</string>
+    <string name="headline">Testi in Italiano per principianti per esercitarsi nella lettura e nella comprensione online e gratuitamente</string>
+    <string name="sub">Esercitare la tua comprensione dell\'Italiano scritto migliorerà la tua
+        vocabolario e comprensione della grammatica e dell\'ordine delle parole. I testi seguenti sono progettati per
+        aiutarti a sviluppare dandoti una valutazione istantanea dei tuoi progressi.</string>
+</resources>
